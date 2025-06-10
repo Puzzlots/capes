@@ -1,2 +1,2 @@
-# capes
-The cape mod shipping container
+# The Cape mod storage
+Where all the capes and data is stored
